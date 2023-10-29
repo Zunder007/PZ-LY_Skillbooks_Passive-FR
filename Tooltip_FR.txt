@@ -1,0 +1,4 @@
+Tooltip_FR = {
+ Tooltip_BookTitle_Fitness = "Forme",
+ Tooltip_BookTitle_Strength = "Force",
+}
